@@ -8,7 +8,7 @@ This is a list of my certificates, to see them click on the links
 
 - Coursera Machine Learning Engineering for Production (MLOps) Specialization <a href="https://coursera.org/share/7a3093c09cce0bac11308dfb480fc054"> here </a>
 
-- Coursera Natural Language Processing Specialization <a href="https://coursera.org/share/7a3093c09cce0bac11308dfb480fc054"> here </a>
+- Coursera Natural Language Processing Specialization <a href="https://coursera.org/share/97ceda7f758eacc9227cdd90babefcfa"> here </a>
 
 - Coursera Accelerated Computer Science Fundamentals Specialization <a href="https://coursera.org/share/e73888a35bcdfdb380abcb91d0b9f64b"> here </a>
 
